@@ -3,3 +3,5 @@ torchaudio==2.4.0
 torchinfo==1.8.0
 torchmetrics==1.4.2
 torchvision==0.19.0
+pytorch-lightning
+netron

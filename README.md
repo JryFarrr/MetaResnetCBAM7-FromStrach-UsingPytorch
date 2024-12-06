@@ -1,4 +1,4 @@
-**Real-Waste Image Classification using MetaResnetCBAM7 From Stracth Using Pytorch**
+# Real-Waste Image Classification using MetaResnetCBAM7 From Stracth Using Pytorch
 -----------------------------------------------------------------
 
 **Overview**

@@ -31,6 +31,7 @@ No
 Introductory Paper
 
 RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning
+https://www.mdpi.com/2078-2489/14/12/633
 
 
 Prediction Result

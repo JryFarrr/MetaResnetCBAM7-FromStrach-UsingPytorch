@@ -33,6 +33,11 @@ Introductory Paper
 RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning
 https://www.mdpi.com/2078-2489/14/12/633
 
+I build Model Pytorch MetaResnetCBAM From Stracth With Pytorch
+This model include Feature Extractor, Convolutional Block for base architecture from CNN, getting inside to VGG 16, and CBAM
+Architecture Photos :
+
+![model_architecture](https://github.com/user-attachments/assets/f9fae27f-741f-4cac-a911-0a8e4138f766)
 
 Prediction Result
 
